@@ -1,3 +1,4 @@
 # my-first-repo-today-07-19
 this is my first repository
-# thia is my tech story
+# this is my tech story
+i will be the greatest and nothing can stop my goal
